@@ -1,4 +1,4 @@
-# STEP-AI-Critters-2024
+# STEP Summer 2024 : AI-Critters
 Let's learn about AI and computer vision through building cameras and detecting animals. 
 
 #### Resources
