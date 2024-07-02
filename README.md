@@ -7,7 +7,7 @@ Let's learn about AI and computer vision through building cameras and detecting 
 
 ### Week 1
 
-##### 1.0.1
+##### <ins>1.0.1</ins>
 ##### 1.0.2
 
 ##### 1.1.1
