@@ -9,6 +9,7 @@ Let's learn about AI and computer vision through building cameras and detecting 
 
 ##### <ins>1.0.1 : Monday </ins>
 Introduction to Terminal, BASH, and installing open source projects using GitHub. 
+- Prerequisites: Install WSL: `wsl --install`
 - What is Bash?
 - What is Github?
 - Terminal Basics Workshop: LINK
