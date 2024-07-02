@@ -4,7 +4,22 @@ Let's learn about AI and computer vision through building cameras and detecting 
 #### Resources
 [ai-4-all.org](https://ai-4-all.org/resources/)
 
-### WEEK 1
+
+### Week 1
+
+##### 1.0.1
+##### 1.0.2
+
+##### 1.1.1
+##### 1.1.2
+
+##### 1.2.1
+##### 1.2.2
+
+##### 1.3.1
+##### 1.3.2
+
+
 
 ### WEEK 2
 
