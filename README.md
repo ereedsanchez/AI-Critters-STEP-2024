@@ -8,16 +8,16 @@ Let's learn about AI and computer vision through building cameras and detecting 
 ### Week 1
 
 ##### <ins>1.0.1</ins>
-##### 1.0.2
+##### <ins>1.0.2</ins>
 
-##### 1.1.1
-##### 1.1.2
+##### <ins>1.1.1</ins>
+##### <ins>1.1.2</ins>
 
-##### 1.2.1
-##### 1.2.2
+##### <ins>1.2.1</ins>
+##### <ins>1.2.2</ins>
 
-##### 1.3.1
-##### 1.3.2
+##### <ins>1.3.1</ins>
+##### <ins>1.3.2</ins>
 
 
 
