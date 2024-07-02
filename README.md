@@ -13,7 +13,7 @@ Introduction to Terminal, BASH, and installing open source projects using GitHub
   - Windows 11: `wsl --install`
 - What is Bash?
 - What is Github?
-- Terminal Basics Workshop: LINK
+- Terminal Basics Workshop: https://github.com/yuanqing/shell-basics , 
 - Understanding SSH: 
 - Over the Wire Workshop (Abdon)
   
