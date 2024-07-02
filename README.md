@@ -2,8 +2,8 @@
 Let's learn about AI and computer vision through building cameras and detecting animals. 
 
 #### Resources
-[ai-4-all.org](https://ai-4-all.org/resources/)
-[AI Image Training - Teachable Machine](https://teachablemachine.withgoogle.com/train/image)
+- [ai-4-all.org](https://ai-4-all.org/resources/)
+- [AI Image Training - Teachable Machine](https://teachablemachine.withgoogle.com/train/image)
 
 
 ### Week 1 : Introduction to Computer Terminals, AI and Image Classification
