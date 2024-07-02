@@ -5,7 +5,7 @@ Let's learn about AI and computer vision through building cameras and detecting 
 [ai-4-all.org](https://ai-4-all.org/resources/)
 
 
-### Week 1 : Introduction to AI and Image Classification
+### Week 1 : Introduction to Computer Terminals, AI and Image Classification
 
 ##### <ins>1.0.1 : Monday </ins>
 Introduction to Terminal, BASH, and installing open source projects using GitHub. 
