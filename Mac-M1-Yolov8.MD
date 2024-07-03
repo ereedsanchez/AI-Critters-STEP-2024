@@ -26,19 +26,23 @@ Use the following steps to install and run yolov8 on an m1 mac.
 Before running YOLOv8, ensure your Apple Silicon GPU supports MPS
 
 ```import torch
-print(torch.backends.mps.is_available())```
+print(torch.backends.mps.is_available())
+```
 
 - Step 2: Install and import Required Libraries 
 ```from ultralytics import YOLO
-import torch```
+import torch
+```
 
 - Step 3: Load the YOLOv8 Model
 Load a pre-trained YOLOv8 model using the Ultralytics library
 
 ```from ultralytics import YOLO
-model = YOLO('YOLOv8m.pt')  # Ensure you have the model file```
+model = YOLO('YOLOv8m.pt')  # Ensure you have the model file
+```
 
 - Step 4: Run Inference with MPS
 Run YOLOv8 with MPS as the target device. This utilizes the Apple Silicon GPU for acceleration:
 
-```results = model(source="input.mp4", show=True, conf=0.1, save=True, device='mps')```
+```results = model(source="input.mp4", show=True, conf=0.1, save=True, device='mps')
+```
