@@ -9,7 +9,7 @@ Let's learn about AI computer vision through building cameras and detecting anim
 ### Week 1 : Introduction to Computer Terminals, AI and Image Classification
 - Learning Goals and Industry Context: 
 - Implementation: 1.0.1 - 1.3.2
-- Final Outcome or Product:
+- Final Outcome or Product: Create AI to make a model of students face and run it on AI Object Detection model.  If time use facial model in image generation using Stable Diffussion. 
 
 
 ##### <ins>1.0.1 : Monday Morning</ins>
