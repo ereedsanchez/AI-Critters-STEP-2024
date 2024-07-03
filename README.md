@@ -7,6 +7,10 @@ Let's learn about AI computer vision through building cameras and detecting anim
 
 
 ### Week 1 : Introduction to Computer Terminals, AI and Image Classification
+- Learning Goals and Industry Context: 
+- Implementation: 1.0.1 - 1.3.2
+- Final Outcome or Product:
+
 
 ##### <ins>1.0.1 : Monday </ins>
 Introduction to Terminal, BASH, and installing open source projects using GitHub. 
