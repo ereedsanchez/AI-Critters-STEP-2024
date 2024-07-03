@@ -28,7 +28,6 @@ Before running YOLOv8, ensure your Apple Silicon GPU supports MPS
 
 ```
 import torch
-
 print(torch.backends.mps.is_available())
 ```
 
