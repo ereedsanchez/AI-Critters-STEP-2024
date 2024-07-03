@@ -23,6 +23,8 @@ Introduction to Terminal, BASH, and installing open source projects using GitHub
 - Over the Wire Workshop (Abdon)
   
 ##### <ins>1.0.2: Monday Afternoon</ins>
+- Install AI software: Pytorch:
+- Install AI software: Stable Diffusion: Documentation 1: https://stable-diffusion-art.com/install-windows/ | 
 
 
 ##### <ins>1.1.1 : Tuesday Morning</ins>
