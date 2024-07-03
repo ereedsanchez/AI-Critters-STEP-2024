@@ -26,7 +26,8 @@ Introduction to Terminal, BASH, and installing open source projects using GitHub
 - Install AI software: Pytorch + YoloV8: 
 - Install AI software: Stable Diffusion:
   - Official documentation: [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-  - Step by step documentation: https://stable-diffusion-art.com/install-windows/ | 
+  - Step by step documentation: https://stable-diffusion-art.com/install-windows/ |
+- Install AI Model Creation on Stable Diffusion: https://www.run.ai/guides/generative-ai/stable-diffusion-training 
 
 
 ##### <ins>1.1.1 : Tuesday Morning</ins>
