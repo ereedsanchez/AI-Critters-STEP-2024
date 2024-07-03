@@ -12,7 +12,7 @@ Let's learn about AI computer vision through building cameras and detecting anim
 - Final Outcome or Product:
 
 
-##### <ins>1.0.1 : Monday </ins>
+##### <ins>1.0.1 : Monday Morning</ins>
 Introduction to Terminal, BASH, and installing open source projects using GitHub. 
 - Prerequisites: Install WSL resource: https://learn.microsoft.com/en-us/windows/wsl/install
   - Windows 11: `wsl --install`
@@ -22,10 +22,10 @@ Introduction to Terminal, BASH, and installing open source projects using GitHub
 - Understanding SSH: 
 - Over the Wire Workshop (Abdon)
   
-##### <ins>1.0.2: Monday</ins>
+##### <ins>1.0.2: Monday Afternoon</ins>
 
 
-##### <ins>1.1.1 : Tuesday </ins>
+##### <ins>1.1.1 : Tuesday Morning</ins>
 Introduction to Artificial Intelligence (AI)
 - Definition and basics of AI
 - Real-world applications of AI (e.g., self-driving cars, virtual assistants, recommendation systems)
@@ -33,7 +33,7 @@ Introduction to Artificial Intelligence (AI)
 - Introduction to the concept of image classification and its use in wildlife monitoring
 
 
-##### <ins>1.1.2 : Tuesday</ins>
+##### <ins>1.1.2 : Tuesday Afternoon</ins>
 AI & Drawing
 This Byte of AI is meant to be a quick and fun way to begin to become familiar with some core ideas of modern AI including:
 - How data becomes output in an AI model
@@ -43,13 +43,11 @@ Students learn these things by exploring drawing in Google Quick, Draw!
 Resources: https://drive.google.com/drive/u/2/folders/1RNtEVZSK2u1xcrB7ruHvrfqjCrvIPpXI
 
 
+##### <ins>1.2.1 : Wednesday Morning</ins>
+##### <ins>1.2.2 : Wednesday Afternoon</ins>
 
-
-##### <ins>1.2.1</ins>
-##### <ins>1.2.2</ins>
-
-##### <ins>1.3.1</ins>
-##### <ins>1.3.2</ins>
+##### <ins>1.3.1 : Thursday Morning</ins>
+##### <ins>1.3.2: Thursday Afternoon</ins>
 
 
 
