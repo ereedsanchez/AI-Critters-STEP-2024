@@ -7,4 +7,4 @@ Use the following steps to install and run yolov8 on an m1 mac.
 1. Install Python 3
 2. Create a folder in you mac. I created a folder called yolo.
 
-`mkdir yolo`
+  `mkdir yolo`
