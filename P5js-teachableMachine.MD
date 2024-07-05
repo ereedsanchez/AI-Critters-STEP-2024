@@ -1,7 +1,7 @@
 Create a simple model with Teachable Machine (https://teachablemachine.withgoogle.com/train/image)
 Use Model in P5.js
 
-Video Documentation: https://thecodingtrain.com/tracks/teachable-machine/teachable-machine/1-image-classification
+Video Documentation: https://thecodingtrain.com/tracks/teachable-machine/teachable-machine/1-image-classification, https://www.youtube.com/watch?v=kwcillcWOg0&t=570s
 P5js sample code: https://editor.p5js.org/ereedsanchez/sketches/VyDg4qcTR
 
 Instructions (Work in Progress)
