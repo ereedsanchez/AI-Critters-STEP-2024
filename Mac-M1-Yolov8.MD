@@ -1,6 +1,7 @@
 This documentation is based on the following documentations: 
 - https://n-ahamed36.medium.com/running-yolov8-on-apple-silicon-with-mps-backend-a-simplified-guide-84b1d382f79c
 - https://github.com/ultralytics/ultralytics?tab=readme-ov-file
+- https://www.youtube.com/watch?v=kEcWUZ8unmc&t=3s
 
 Use the following steps to install and run yolov8 on an m1 mac. 
 
