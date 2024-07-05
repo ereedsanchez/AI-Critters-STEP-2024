@@ -1,5 +1,6 @@
-# STEP Summer 2024 : AI-Critters
-Let's learn about AI computer vision through building cameras and detecting animals at the Bronx Community College Campus
+# AI-Critters : STEP Summer 2024
+
+Learn about AI computer vision through building cameras and detecting animals on the Bronx Community College Campus!
 
 #### Resources
 - [ai-4-all.org](https://ai-4-all.org/resources/)
