@@ -21,7 +21,7 @@ Introduction to Terminal / BASH, open source projects and GitHub.
 - LECTURE: What is Bash?
 - LECTURE: What is Github?
 
-- Workshop : Terminal Basics : https://github.com/yuanqing/shell-basics , 
+- Workshop : Terminal Basics : [Cheat Sheet 1](https://github.com/yuanqing/shell-basics) , 
 - Workshop : Understanding SSH : Video : [Log into the mainframe!](https://www.youtube.com/watch?v=Hcywf9mwF5U) 
 - Over the Wire Workshop (Abdon): 
   
