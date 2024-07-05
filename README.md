@@ -13,14 +13,18 @@ Let's learn about AI computer vision through building cameras and detecting anim
 
 
 ##### <ins>1.0.1 : Monday Morning</ins>
-Introduction to Terminal, BASH, and installing open source projects using GitHub. 
+Introduction to Terminal / BASH, open source projects and GitHub. 
 - Prerequisites: Install WSL resource: https://learn.microsoft.com/en-us/windows/wsl/install
   - Windows 11: `wsl --install`
-- What is Bash?
-- What is Github?
-- Terminal Basics Workshop: https://github.com/yuanqing/shell-basics , 
-- Understanding SSH: 
-- Over the Wire Workshop (Abdon)
+  - Github Account
+
+- LECTURE: What is Bash?
+- LECTURE: What is Github?
+
+- Workshop : Terminal Basics : https://github.com/yuanqing/shell-basics , 
+- Workshop : Understanding SSH :
+-   [Video: Log into the mainframe!]() 
+- Over the Wire Workshop (Abdon): 
   
 ##### <ins>1.0.2: Monday Afternoon</ins>
 - Install AI software: Pytorch + YoloV8: 
