@@ -49,13 +49,31 @@ Resources: https://drive.google.com/drive/u/2/folders/1RNtEVZSK2u1xcrB7ruHvrfqjC
 
 
 
-### WEEK 2
+### WEEK 2: Introduction to AI, Computer Vision and building DIY Cameras
 
-##### <ins>1.2.1 : Wednesday Morning</ins>
-##### <ins>1.2.2 : Wednesday Afternoon</ins>
 
-##### <ins>1.3.1 : Thursday Morning</ins>
-##### <ins>1.3.2: Thursday Afternoon</ins>
+- Learning Goals and Industry Context: Students will be able understand how to AI computer vision concepts and create a DIY Camera using WyzeCam or ESP32
+
+- Implementation: 2.0.1 - 2.3.2
+- Final Outcome or Product: Create an AI model with Teachable Machine of students face and run it on AI Object Detection model in P5Javascript, where it will display a coded self portrait.
+
+##### <ins>2.0.1 : Monday Morning</ins>
+Introduction to CMD (the windows terminal)
+Learn how to talk and navigate computer systems like a pro (hacker!).
+
+##### <ins>2.0.2: Monday Afternoon</ins>
+Terminal / BASH, open source projects 
+
+
+##### <ins>2.2.1 : Wednesday Morning</ins>
+##### <ins>2.2.2 : Wednesday Afternoon</ins>
+
+##### <ins>2.3.1 : Thursday Morning</ins>
+##### <ins>2.3.2: Thursday Afternoon</ins>
+
+
+
+
 Introduction to GitHub. 
 - Prerequisites: Install WSL resource: https://learn.microsoft.com/en-us/windows/wsl/install
   - Windows 11: `wsl --install`
