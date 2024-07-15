@@ -70,8 +70,9 @@ P5js template:
 Students learn these things by exploring drawing in Google Quick, Draw!
 Resources: https://drive.google.com/drive/u/2/folders/1RNtEVZSK2u1xcrB7ruHvrfqjCrvIPpXI
 
-Explore RunwayML - Sign up for Runway ML
-Make images using prompts. 
+- Explore RunwayML - Sign up for Runway ML
+- Make images on RunwayML using prompts. 
+- Finish Facial Recognition Project. 
 
 ##### <ins>2.2.1 : Wednesday Morning</ins>
 
