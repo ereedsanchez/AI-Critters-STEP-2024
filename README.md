@@ -87,15 +87,17 @@ Hands on: build a DIY camera housing made of wood.
 ###### Learning Goals and Industry Context: 
 - Students will install all packages to run professional AI based models.  installation includes pyorch, and CUDA, on Intel PCs with NVidia 3070 Graphics Card.  
 - Students will learn how to install and create pytorch AI models.
-###### Implementation: 2.0.1 - 2.3.2
+###### Implementation: 3.0.1 - 3.3
 Final Outcome or Product:
 - Working prototype of Camera in wooden housing, automatically sending images to a Pytorch AI serer.
 - Begin training a BCC Animal Model. 
 
-##### <ins>3.1.1 : Monday
-
+##### <ins>3.0.1 : Monday
 - Install AI software:  [Forest Buddy Server](https://github.com/ereedsanchez/Forest-Buddy-Server).
 - Complete P5 Teachable Machine Project: https://editor.p5js.org/Kimoni/sketches/RLXL3Ymkh on big screen.
+  
+##### <ins>3.1.0 : Tuesday 
+- Understand PyTorch and AI models. 
 
 ### WEEK 4
 
