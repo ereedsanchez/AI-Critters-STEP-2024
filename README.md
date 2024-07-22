@@ -76,13 +76,22 @@ Resources: https://drive.google.com/drive/u/2/folders/1RNtEVZSK2u1xcrB7ruHvrfqjC
 
 ##### <ins>2.2.1 : Wednesday Morning</ins>
 
-Hands on: build a DIY camera. 
+Hands on: build a DIY camera using a WYZECAM. 
 
 ##### <ins>2.3.1 : Thursday Morning</ins>
 
-Hands on: build a DIY camera housing 
+Hands on: build a DIY camera housing made of wood.  
 
 ### WEEK 3
+Students will install all packages to run professional AI based models.  installation includes pyorch, and CUDA, on Intel PCs with NVidia 3070 Graphics Card.  
+Students will learn how to install and create pytorch AI models.
+
+##### <ins>3.1.1 : Monday
+- Install AI software:  [Forest Buddy Server](https://github.com/ereedsanchez/Forest-Buddy-Server).
+- Complete P5 Teachable Machine Project: https://editor.p5js.org/Kimoni/sketches/RLXL3Ymkh.
+-  Create your body into a Letter, and show an emoji.
+
+- 
 
 ### WEEK 4
 
