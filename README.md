@@ -57,6 +57,7 @@ P5js template:
 ###### Implementation: 2.0.1 - 2.3.2
 Final Outcome or Product:
 - Create an AI model with Teachable Machine of students face and run it on AI Object Detection model in P5 Javascript, where it will display a coded self portrait.
+-  see: [Teachable Faces P5 project](https://editor.p5js.org/ereedsanchez/sketches/WSpvdzKXk)
 - Create P5 project with Teachable machine using their bodies to create "letters" and then showing the letter on screen. 
 
 ##### <ins>2.0.1 : Monday </ins>
