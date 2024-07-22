@@ -97,7 +97,12 @@ Final Outcome or Product:
 - Complete P5 Teachable Machine Project: https://editor.p5js.org/Kimoni/sketches/RLXL3Ymkh on big screen.
   
 ##### <ins>3.1.0 : Tuesday 
-- Understand PyTorch and AI models. 
+- Understand PyTorch, And Yolo V8 AI Model.
+- 
+
+- Create a large critter box
+- Create 4 wood boxes, 1 solar powered. 
+- Letters to 
 
 ### WEEK 4
 
