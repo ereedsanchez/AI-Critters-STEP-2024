@@ -50,14 +50,14 @@ P5js template:
 
 
 ###### Learning Goals and Industry Context: 
-- Students will be able understand how to AI computer vision concepts and create a DIY Camera using WyzeCam or ESP32
-- Students will leave knowing
-- Machines make decisions based on data provided to them
-- That data contains the bias of the people who entered it
-- Considering this bias allows you to think about how to counteract it
+- Students will be able explore AI computer vision concepts.
+- Students will learn how to create and program IOT Camera and firmware using WyzeCam or ESP32. 
+- Students will leave knowing methods for creating outdoor housing for cameras. 
 
 ###### Implementation: 2.0.1 - 2.3.2
-- Final Outcome or Product: Create an AI model with Teachable Machine of students face and run it on AI Object Detection model in P5Javascript, where it will display a coded self portrait.
+Final Outcome or Product:
+- Create an AI model with Teachable Machine of students face and run it on AI Object Detection model in P5 Javascript, where it will display a coded self portrait.
+- Create P5 project with Teachable machine using their bodies to create "letters" and then showing the letter on screen. 
 
 ##### <ins>2.0.1 : Monday </ins>
 - Build an AI computer from computer parts. 
@@ -83,15 +83,18 @@ Hands on: build a DIY camera using a WYZECAM.
 Hands on: build a DIY camera housing made of wood.  
 
 ### WEEK 3
-Students will install all packages to run professional AI based models.  installation includes pyorch, and CUDA, on Intel PCs with NVidia 3070 Graphics Card.  
-Students will learn how to install and create pytorch AI models.
+###### Learning Goals and Industry Context: 
+- Students will install all packages to run professional AI based models.  installation includes pyorch, and CUDA, on Intel PCs with NVidia 3070 Graphics Card.  
+- Students will learn how to install and create pytorch AI models.
+###### Implementation: 2.0.1 - 2.3.2
+Final Outcome or Product:
+- Working prototype of Camera in wooden housing, automatically sending images to a Pytorch AI serer.
+- Begin training a BCC Animal Model. 
 
 ##### <ins>3.1.1 : Monday
-- Install AI software:  [Forest Buddy Server](https://github.com/ereedsanchez/Forest-Buddy-Server).
-- Complete P5 Teachable Machine Project: https://editor.p5js.org/Kimoni/sketches/RLXL3Ymkh.
--  Create your body into a Letter, and show an emoji.
 
-- 
+- Install AI software:  [Forest Buddy Server](https://github.com/ereedsanchez/Forest-Buddy-Server).
+- Complete P5 Teachable Machine Project: https://editor.p5js.org/Kimoni/sketches/RLXL3Ymkh on big screen.
 
 ### WEEK 4
 
